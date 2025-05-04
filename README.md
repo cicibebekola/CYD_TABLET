@@ -1,0 +1,1 @@
+cyd based tablet planning on adding music player built in level clock distance measurment heartbeat sensor barometer with a gps included configure the tft library for your screen driver based on lvgl 8.3.0 
